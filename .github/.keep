@@ -1,0 +1,51 @@
+Define Software Engineering:
+What is software engineering, and how does it differ from traditional programming?
+Software Engineering is a disciplined approach to the design, development, maintenance, and management of software. It differs from traditional programming in scope, process, and team collaboration. Traditional programming focuses on coding to solve specific problems without a formal structure, while software engineering follows a structured process involving methodologies like Agile or Waterfall.
+
+Software Development Life Cycle (SDLC):
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+
+Planning: Defines project scope, objectives, and resources.
+Requirement Analysis: Gathers and analyzes requirements from stakeholders.
+Design: Translates requirements into system architecture and detailed designs.
+Implementation: Coding based on design specifications.
+Testing: Verifies software meets requirements and is defect-free.
+Deployment: Releases software into production.
+Maintenance: Updates and modifies software post-deployment.
+Agile vs. Waterfall Models:
+Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+
+Agile: Iterative, adaptable to changes, emphasizes customer collaboration and feedback.
+Waterfall: Sequential, rigid, requires detailed upfront planning, suitable for projects with stable requirements.
+Key differences include flexibility, customer involvement, and development approach. Agile is preferred for projects with evolving requirements, while Waterfall is suitable for projects with well-defined, stable requirements.
+Requirements Engineering:
+What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+Requirements Engineering is the process of defining, documenting, and maintaining requirements for a software project. It involves elicitation, analysis, specification, validation, and management of requirements. It's crucial as it provides a clear basis for system design, reduces ambiguity, and facilitates testing and development.
+
+Software Design Principles:
+Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+Modularity breaks down software into smaller, manageable modules. It improves maintainability by allowing easier updates and scalability through independent development and testing of modules. It promotes reusability and parallel development, enhancing overall system efficiency.
+
+Testing in Software Engineering:
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+
+Unit Testing: Tests individual components.
+Integration Testing: Tests interaction between integrated components.
+System Testing: Tests the entire system.
+Acceptance Testing: Validates system against user requirements.
+Testing ensures software quality, identifies defects early, improves reliability, and validates functionality before deployment, reducing risks and costs associated with software failures.
+Version Control Systems:
+What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+Version Control Systems manage changes to source code over time, enabling collaboration among developers, maintaining code integrity, and facilitating backup and version history. Examples include Git (distributed, branching), SVN (centralized, simplicity), and Mercurial (distributed, performance).
+
+Software Project Management:
+Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+A Software Project Manager oversees planning, execution, and delivery of software projects. Responsibilities include project planning, resource management, risk assessment, communication, and ensuring quality. Challenges include scope management, resource allocation, time constraints, and balancing stakeholder expectations.
+
+Software Maintenance:
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+Software Maintenance involves modifying software post-deployment to correct defects, improve performance, or adapt to new environments. Types include corrective, adaptive, perfective, and preventive maintenance. It's essential for ensuring software longevity, performance optimization, and security updates, enhancing overall system reliability and user satisfaction.
+
+Ethical Considerations in Software Engineering:
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+Ethical issues include privacy, security, intellectual property, and fairness in algorithm design. Adhering to professional codes of conduct, ensuring transparency in data handling, taking responsibility for software impact, and continuous learning about ethical standards help software engineers uphold ethical practices and promote trust in their work.
